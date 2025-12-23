@@ -8,7 +8,7 @@
 ```
 
 <p align="center">
-  <code>sys.boot :: v1.1 :: building systems that think</code>
+  <code>priOS.boot :: stable :: builder-first :: systems &gt; scripts</code>
 </p>
 
 <p align="center">
@@ -20,42 +20,55 @@
 
 ---
 
+```txt
+> help
+  open /identity
+  open /now
+  open /build-log
+  open /principles
+  open /telemetry
+  open /stack
+```
+
 ## Identity
 
-Computer Science student engineering at the intersection of **AI/ML foundations** and **full-stack development**.
+I’m **Priyesh Singh (Pri)** — a Computer Science student working at the intersection of **AI/ML foundations** and **full-stack engineering**.
 
-I prefer **systems over scripts** — clean architecture, scalable backends, and UI that stays fast under real constraints.
+My default mode:
+- build the core workflow first
+- make the system survivable (auth, roles, failure modes)
+- then make it fast
 
 ---
 
-## Current Focus
+## Now
 
-- Building full-stack products with **auth, roles, workflows, and reliability** as first-class requirements
-- Translating ML ideas into **deployable services** (not notebooks that die on export)
-- Performance-minded frontend engineering (lazy loading, graceful fallbacks, reduced-motion, minimal main-thread work)
+- Turning “cool ideas” into **deployable software**
+- Treating **security + permissions** as product features (not last-minute patches)
+- Keeping UI smooth under constraints (lazy boundaries, fallbacks, reduced-motion, minimal main-thread work)
 
 ---
 
 ## Build Log
 
-| Project | What it solves | Stack | Links |
+| Module | Intent | Signals | Links |
 |---|---|---|---|
-| **Lost & Found** | Item recovery platform with JWT auth + RBAC and automated workflows. Built for real reporting/claim flows. | React · FastAPI · MySQL · Cloudinary | [Repo](https://github.com/whypriyesh/priyesh-lost-n-found) · [Live](https://lost-found-pri.vercel.app/) |
-| **Admin Dashboard** | Modular analytics/dashboard UI with realtime-oriented patterns and data visualization. | React · Tailwind CSS · Framer Motion | [Repo](https://github.com/whypriyesh/admin-dashboard) |
-| **Rental Finder** | Location-based discovery flow with filtering logic and interactive UI patterns. | React · Tailwind CSS | [Repo](https://github.com/whypriyesh/rental-finder) |
+| **Lost & Found** | Item recovery platform designed around real reporting + claim workflows. | JWT auth · RBAC · Cloudinary media pipeline | [Repo](https://github.com/whypriyesh/priyesh-lost-n-found) · [Live](https://lost-found-pri.vercel.app/) |
+| **Admin Dashboard** | Modular dashboard UI for analytics-style surfaces. | Component system · motion/UX polish | [Repo](https://github.com/whypriyesh/admin-dashboard) |
+| **Rental Finder** | Discovery flow with filtering logic and UI patterns. | Filtering state · responsive UX | [Repo](https://github.com/whypriyesh/rental-finder) |
 
 ---
 
-## Core Strengths
+## How I Operate
 
-- **Systems architecture**
-  Decoupled components, clear responsibilities, and code that stays readable after the “first impressive demo.”
-- **Backend engineering instincts**
-  Auth/roles, REST design, data modeling, and performance as a constraint.
-- **Automation mindset**
-  If it repeats, I script it. (Image pipelines, build hygiene, tooling.)
-- **Problem framing**
-  I break ambiguity into interfaces, invariants, and measurable outputs.
+- **I design around invariants**
+  permissions, ownership, data boundaries, failure modes.
+- **I build UX like an engineer**
+  fast defaults, graceful fallbacks, measurable performance.
+- **I automate boring correctness**
+  if a task repeats, it becomes a script.
+- **I prefer clean interfaces**
+  so iteration stays cheap.
 
 ---
 
@@ -73,15 +86,36 @@ I prefer **systems over scripts** — clean architecture, scalable backends, and
 
 ---
 
+## Telemetry
+
+```txt
+signals:
+  - learning cadence: daily compounding
+  - build style: ship → harden → optimize
+  - north star: systems that survive contact with reality
+```
+
+---
+
 ## Proof of Work
 
-| Stats | Streak |
-|---:|:---|
-| <a href="https://github.com/whypriyesh"><img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=whypriyesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /></a> | <a href="https://github.com/whypriyesh"><img height="170" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=whypriyesh&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" /></a> |
+<p align="center">
+  <a href="https://github.com/whypriyesh">
+    <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=whypriyesh&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/whypriyesh">
+    <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=whypriyesh&theme=github-dark&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/whypriyesh">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whypriyesh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
+<p align="center">
+  <a href="https://github.com/whypriyesh">
+    <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whypriyesh&layout=compact&hide_border=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/whypriyesh">
+    <img width="49%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whypriyesh&theme=github_dark" />
+  </a>
+</p>
 
 ---
 
@@ -109,7 +143,7 @@ I prefer **systems over scripts** — clean architecture, scalable backends, and
 ---
 
 <p align="center">
-  <em>Building systems quietly. Shipping code intentionally.</em>
+  <em>Quiet builds. Loud signal.</em>
 </p>
 
 <p align="center">
