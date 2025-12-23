@@ -13,7 +13,7 @@
 
 ---
 
-### 󰚩 Identity
+### ⚡ Identity
 
 Computer Science student engineering at the intersection of **AI/ML foundations** and **full-stack development**. I don't ship demos—I build **systems**. Clean architecture, scalable backends, and the kind of code that survives production.
 
@@ -21,7 +21,7 @@ Currently focused on transforming theoretical ML concepts into deployable soluti
 
 ---
 
-### 󰏗 Building / Exploring
+### 🔨 Building / Exploring
 
 | Project | What It Solves |
 |---------|----------------|
@@ -33,7 +33,7 @@ Currently focused on transforming theoretical ML concepts into deployable soluti
 
 ---
 
-### 󰊖 Core Strengths
+### 🎯 Core Strengths
 
 - **Systems Architecture** — Designing decoupled, maintainable structures over quick hacks
 - **Backend Engineering** — REST APIs, auth systems, data pipelines, performance optimization
@@ -43,7 +43,7 @@ Currently focused on transforming theoretical ML concepts into deployable soluti
 
 ---
 
-### 󱁤 Stack
+### 🛠️ Stack
 
 <p align="center">
   
@@ -85,7 +85,7 @@ Currently focused on transforming theoretical ML concepts into deployable soluti
 
 ---
 
-### 󰂵 Engineering Principles
+### 📐 Engineering Principles
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -105,23 +105,29 @@ Currently focused on transforming theoretical ML concepts into deployable soluti
 
 ---
 
-### 󰄛 Proof of Work
+### 📊 Proof of Work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whypriyesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <a href="https://github.com/whypriyesh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whypriyesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whypriyesh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <a href="https://github.com/whypriyesh">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=whypriyesh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whypriyesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/whypriyesh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whypriyesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  </a>
 </p>
 
 ---
 
-### 󰌷 Presence
+### 🌐 Presence
 
 <p align="center">
 
