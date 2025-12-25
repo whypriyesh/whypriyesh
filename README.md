@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Header with Vaporwave Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=170&section=header&text=PRIYESH&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%20AI/ML%20Engineer%20%7C%20Web%20Developer%20%7C%20Problem%20Solver%20&descAlignY=65&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=PRIYESH&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%20AI/ML%20Engineer%20%7C%20Web%20Developer%20%7C%20Problem%20Solver%20&descAlignY=65&descSize=20" width="100%"/>
 
 <!-- Typing SVG with cooler font -->
 <a href="https://git.io/typing-svg">
@@ -25,9 +25,14 @@
 
 <br/>
 
-<!-- Stats line with better visitor counter -->
-<img src="https://hits.sh/github.com/whypriyesh.svg?style=for-the-badge&label=VISITORS&color=58a6ff&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/followers/whypriyesh?style=for-the-badge&color=0d1117&labelColor=58a6ff&label=FOLLOWERS"/>
+<!-- Stats & Follow -->
+<img src="https://komarev.com/ghpvc/?username=whypriyesh&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+<a href="https://github.com/whypriyesh?tab=followers">
+  <img src="https://img.shields.io/github/followers/whypriyesh?style=for-the-badge&color=58a6ff&label=FOLLOWERS"/>
+</a>
+<a href="https://github.com/whypriyesh">
+  <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -105,19 +110,6 @@ const priyesh = {
 
 </div>
 
----
-
-## `$ cat /projects`
-
-<div align="center">
-
-| Project | Description | Links |
-|:-------:|:------------|:-----:|
-| **Lost & Found** | Full-stack item recovery system with JWT auth, RBAC & Cloudinary | [![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square)](https://lost-found-pri.vercel.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/whypriyesh/priyesh-lost-n-found) |
-| **Admin Dashboard** | Modular analytics dashboard with polished component system & motion | [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/whypriyesh/admin-dashboard) |
-| **Rental Finder** | Smart property discovery with filtering logic & responsive UX | [![Code](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](https://github.com/whypriyesh/rental-finder) |
-
-</div>
 
 ---
 
@@ -129,18 +121,6 @@ const priyesh = {
 </a>
 </div>
 
----
-
-## `$ cat /principles.md`
-
-```diff
-+ 01. Build for maintenance, not for the demo
-+ 02. Understand before optimizing
-+ 03. Complexity is debt — pay it down
-+ 04. Ship working software, iterate from there
-+ 05. Performance is responsibility, not afterthought
-+ 06. Data drives decisions, intuition guides exploration
-```
 
 ---
 
