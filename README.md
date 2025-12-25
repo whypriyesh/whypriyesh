@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;Web+Developer+%2F%2F+React+%2F%2F+Full-Stack;Code.+Train.+Deploy.+Iterate." alt="Typing SVG" />
 </a>
-
+<br/><br/>
 
 <!-- Social badges with logo icons -->
 <a href="https://itspriyesh.vercel.app/">
@@ -43,38 +43,6 @@ const priyesh = {
     superpower: "Turning data into intelligent systems & ideas into polished products"
 };
 ```
-
----
-
-## `$ cat /projects`
-
-<div align="center">
-
-### 🌐 Web Development Projects
-
-> Full-stack applications with modern tech stack
-
-### Lost & Found Platform
-> Full-stack item recovery system with JWT auth, RBAC, and Cloudinary media pipeline
-
-[![Live](https://img.shields.io/badge/▸_LIVE-00C853?style=for-the-badge)](https://lost-found-pri.vercel.app/)
-[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/priyesh-lost-n-found)
-
----
-
-### Admin Dashboard
-> Modular analytics dashboard with polished component system & motion design
-
-[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/admin-dashboard)
-
----
-
-### Rental Finder
-> Smart property discovery with filtering logic & responsive UX patterns
-
-[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/rental-finder)
-
-</div>
 
 ---
 
@@ -118,6 +86,38 @@ const priyesh = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat /projects`
+
+<div align="center">
+
+### 🌐 Web Development Projects
+
+> Full-stack applications with modern tech stack
+
+### Lost & Found Platform
+> Full-stack item recovery system with JWT auth, RBAC, and Cloudinary media pipeline
+
+[![Live](https://img.shields.io/badge/▸_LIVE-00C853?style=for-the-badge)](https://lost-found-pri.vercel.app/)
+[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/priyesh-lost-n-found)
+
+---
+
+### Admin Dashboard
+> Modular analytics dashboard with polished component system & motion design
+
+[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/admin-dashboard)
+
+---
+
+### Rental Finder
+> Smart property discovery with filtering logic & responsive UX patterns
+
+[![Code](https://img.shields.io/badge/▸_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whypriyesh/rental-finder)
 
 </div>
 
