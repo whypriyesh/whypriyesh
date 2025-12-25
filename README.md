@@ -35,27 +35,27 @@
 
 ---
 
-## `$ whoami`
+### `> whoami`
 
 ```js
 const priyesh = {
-    role: "AI/ML Engineer • Web Developer • Problem Solver",
-    focus: ["Machine Learning", "Deep Learning", "Full-Stack Development"],
-    philosophy: "Build → Train → Ship → Optimize",
-    superpower: "Turning data into intelligent systems & ideas into polished products"
+  role: "AI/ML Engineer • Web Developer • Problem Solver",
+  focus: ["Machine Learning", "Deep Learning", "Full-Stack Development"],
+  philosophy: "Build → Train → Ship → Optimize",
+  superpower: "Data → Intelligence | Ideas → Products"
 };
 ```
 
 ---
 
-## `$ cat /stack.json`
+### `> stack`
 
 <div align="center">
 
 <table>
 <tr><td align="center" width="50%">
 
-**🤖 AI / ML**
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -110,14 +110,13 @@ const priyesh = {
 
 ---
 
-## `$ ./stats.sh`
+### `> stats`
 
 <div align="center">
 <a href="https://github.com/whypriyesh">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whypriyesh&theme=tokyonight" alt="Contribution Graph"/>
 </a>
 </div>
-
 
 ---
 
