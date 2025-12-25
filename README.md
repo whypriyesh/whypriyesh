@@ -8,26 +8,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;Web+Developer+%2F%2F+React+%2F%2F+Full-Stack;Code.+Train.+Deploy.+Iterate." alt="Typing SVG" />
 </a>
 
-<br/>
 
-<!-- Social badges with glow effect style -->
+<!-- Social badges with logo icons -->
 <a href="https://itspriyesh.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=58a6ff"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/priyeshai">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:priyesh.code@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1W_-s_GVMOc_-jmTh7Vv2K2qiCPr1XxgE/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_RESUME-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=4285F4"/>
+  <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- Cool stats line -->
-<img src="https://komarev.com/ghpvc/?username=whypriyesh&style=for-the-badge&color=0d1117&labelColor=58a6ff&label=VISITORS"/>
+<!-- Stats line with better visitor counter -->
+<img src="https://hits.sh/github.com/whypriyesh.svg?style=for-the-badge&label=VISITORS&color=58a6ff&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/whypriyesh?style=for-the-badge&color=0d1117&labelColor=58a6ff&label=FOLLOWERS"/>
 
 </div>
@@ -94,7 +93,6 @@ const priyesh = {
 
 **💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -155,10 +153,6 @@ const priyesh = {
 <div align="center">
 
 *"Turning data into intelligence, ideas into reality."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=whypriyesh&color=58a6ff&style=for-the-badge&label=VISITORS)
 
 <br/>
 
