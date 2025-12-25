@@ -5,7 +5,7 @@
 
 <!-- Typing SVG with cooler font -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;💻+Web+Developer+%2F%2F+React+%2F%2F+Full-Stack;⚡+Code.+Train.+Deploy.+Iterate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;Web+Developer+%2F%2F+React+%2F%2F+Full-Stack;Code.+Train.+Deploy.+Iterate." alt="Typing SVG" />
 </a>
 
 <br/>
