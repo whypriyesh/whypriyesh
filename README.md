@@ -30,9 +30,6 @@
 <a href="https://github.com/whypriyesh?tab=followers">
   <img src="https://img.shields.io/github/followers/whypriyesh?style=for-the-badge&color=58a6ff&label=FOLLOWERS"/>
 </a>
-<a href="https://github.com/whypriyesh">
-  <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
