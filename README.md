@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Cyber Header with Vaporwave Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=PRIYESH&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%20AI/ML%20Engineer%20%7C%20Web%20Developer%20%7C%20Problem%20Solver%20&descAlignY=65&descSize=20" width="100%"/>
+<!-- Anime Coder -->
+<img src="./anime-coder.jpg" width="400"/>
+
 
 <!-- Typing SVG with cooler font -->
 <a href="https://git.io/typing-svg">
@@ -113,7 +114,7 @@ const priyesh = {
 
 <div align="center">
 <a href="https://github.com/whypriyesh">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whypriyesh&theme=tokyonight" alt="Contribution Graph"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whypriyesh&theme=tokyonight" alt="Contribution Graph"/>
 </a>
 </div>
 
